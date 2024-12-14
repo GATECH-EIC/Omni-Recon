@@ -1,0 +1,3 @@
+outputs
+checkpoints/wandb
+test_log
